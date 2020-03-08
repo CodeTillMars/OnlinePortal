@@ -1,0 +1,17 @@
+2020-02-23 21:04:47 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:13:33 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:16:41 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:19:14 INFO  BaseTest1:18 - ===========verifyLoginWithInvalidCredentails test===========
+2020-02-24 21:19:45 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:21:06 INFO  BaseTest1:18 - ===========verifyLoginWithInvalidCredentails test===========
+2020-02-24 21:21:07 INFO  BaseTest1:70 - Clicked on login button
+2020-02-24 21:21:08 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:25:02 INFO  BaseTest1:18 - ===========verifyLoginWithInvalidCredentails test===========
+2020-02-24 21:25:03 INFO  BaseTest1:70 - Clicked on login button
+2020-02-24 21:25:34 INFO  BaseTest1:73 - browser closed
+2020-02-24 21:29:33 INFO  BaseTest1:18 - ===========verifyLoginWithInvalidCredentails test===========
+2020-02-24 21:29:35 INFO  BaseTest1:70 - Clicked on login button
+2020-02-24 21:29:35 INFO  BaseTest1:72 - email entered by user 
+2020-02-24 21:29:35 INFO  BaseTest1:74 - password entered by user 
+2020-02-24 21:29:36 INFO  BaseTest1:76 - user clicked Login Button 
+2020-02-24 21:30:07 INFO  BaseTest1:73 - browser closed
